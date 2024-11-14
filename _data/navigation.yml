@@ -6,16 +6,16 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Academic Experience"
+  - title: "Academic Exp."
     url: "/#academic-experience"
 
-  - title: "Employment Experience"
+  - title: "Employment Exp."
     url: "/#employment-experience"
 
-  - title: "Project Experience"
+  - title: "Project Exp."
     url: "/#project-experience"
 
-  - title: "Association Experience"
+  - title: "Association Exp."
     url: "/#association-experience"
 
   - title: "Honors & Awards"
