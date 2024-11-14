@@ -33,7 +33,7 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
 
 <span class="anchor" id="publications"></span>
 # 📚 Publications
-- **Ziyi Li**. (2022), *What Barriers Does China’s System of Education Create to Social Mobility?* Research and Advances in Education (ISSN 2788-7057) Vol.1 No.6, [2022].
+- **Ziyi Li**. (2022), *What Barriers Does China’s System of Education Create to Social Mobility?* Research and Advances in Education (ISSN 2788-7057) Vol.1 No.6.
 - **Ziyi Li**. (2022), *Essential Lessons from China’s Development -- Advanced in Social Science, Education, and Humanities Research*. 2022 International Conference on Social Sciences and Humanities and Arts. (Accepted, CPCI, CNKI).
 - **Ziyi Li**. (2021), *Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China*. Academic Journal of Business & Management.
 - **Ziyi Li**. (2020), *An Empirical Analysis of CAPM and Fama-French Three-Factor Model -- Based on the Example of Shanghai Stock Exchange*. Education Reform and Development.
