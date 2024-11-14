@@ -40,9 +40,19 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
 
 <span class="anchor" id="academic-experience"></span>
 # 🔬 Academic Experience
+
+# 📘 Academic Training Experience
+- **Researcher and Learner**, Chinese University of Hong Kong (06/2022)
+  - Duties: Completed coursework on regional economic and social development in the Yangtze River Delta, focusing on research methods, trend analysis, and strategic solutions.
+  - Achievements: Demonstrated strong analytical and empirical research skills.
+
+
 - **Research Assistant**, National University of Singapore (03/2022 – 06/2022)
   - Proficient in Financial Modelling: Demonstrated proficiency in data collection and analysis to optimize asset allocation using the Markowitz model for ROI analysis, leveraging Black-Litterman modeling and matrix analysis techniques.
   - Equity Investment Decision Research: Conducted in-depth research by integrating technical indicators with market sentiment analysis. Utilized data visualization to predict stock price trends, resulting in the development of five comprehensive asset allocation reports.
+
+- **Action Student**, Cambridge University & Oxford University, UK (08/2018 – 09/2018)
+  - Studied multinational organization, finance, business law, and intellectual property rights.
 
 <span class="anchor" id="employment-experience"></span>
 # 💼 Employment Experience
