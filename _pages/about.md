@@ -32,56 +32,14 @@ I graduated with a Master of Science in China & Globalisation from King’s Coll
 In 2022, I worked as a researcher at the Chinese University of Hong Kong on a project exploring coordinated economic development in the Yangtze River Delta. My research interests focus on economic integration, global investment strategies, and China’s role in the global economy.
 
 # 📝 Publications 
+- **Ziyi Li**, What Barriers Does China’s System of Education Create to Social Mobility?, *Research and Advances in Education* (ISSN 2788-7057), Vol.1 No.6, 2022
 
-<div class="paper-box">
-    <div class="paper-box-image">
-        <div><img src="images/publication1.jpg" alt="publication1" width="100%"></div>
-    </div>
-    <div class="paper-box-text">
+- **Ziyi Li**, Essential Lessons from China’s Development -- Advanced in Social Science, Education, and Humanities Research, International Conference on Social Sciences and Humanities and Arts* (Accepted, CPCI, CNKI), 2022
 
-        - [What Barriers Does China’s System of Education Create to Social Mobility?](https://doi.org/xxxxxx), <br />
-        **Ziyi Li**, <br />
-        *Research and Advances in Education* (ISSN 2788-7057), Vol.1 No.6, 2022
+- **Ziyi Li**, Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China, 
+*Academic Journal of Business & Management*, 2021, [link](https://doi.org/10.26689/erd.v2i2.2050)
 
-    </div>
-</div>
-
-<div class="paper-box">
-    <div class="paper-box-image">
-        <div><img src="images/pub2.png" alt="publication2" width="100%"></div>
-    </div>
-    <div class="paper-box-text">
-
-        - [Essential Lessons from China’s Development -- Advanced in Social Science, Education, and Humanities Research](), <br />
-        **Ziyi Li**, <br />
-        *2022 International Conference on Social Sciences and Humanities and Arts* (Accepted, CPCI, CNKI)
-
-    </div>
-</div>
-
-<div class="paper-box">
-    <div class="paper-box-image">
-        <div><img src="images/pub3.png" alt="publication3" width="100%"></div>
-    </div>
-    <div class="paper-box-text">
-
-        - [Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China](https://doi.org/10.26689/erd.v2i2.2050), <br />
-        **Ziyi Li**, <br />
-        *Academic Journal of Business & Management*, 2021
-
-    </div>
-</div>
-
-<div class="paper-box">
-    <div class="paper-box-image">
-        <div><img src="images/publication4.jpg" alt="publication4" width="100%"></div>
-    </div>
-    <div class="paper-box-text">
-        - [An Empirical Analysis of CAPM and Fama-French Three-Factor Model -- Based on the Example of Shanghai Stock Exchange](https://doi.org/xxxxxx), <br />
-        **Ziyi Li**, <br />
-        *Education Reform and Development*, 2020
-    </div>
-</div>
+- **Ziyi Li**, An Empirical Analysis of CAPM and Fama-French Three-Factor Model -- Based on the Example of Shanghai Stock Exchange, *Education Reform and Development*, 2020
 
 
 # 🎉 Professional Service 
