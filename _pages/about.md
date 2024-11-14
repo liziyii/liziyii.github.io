@@ -48,7 +48,7 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
 
 <div class="paper-box">
     <div class="paper-box-image">
-        <div><img src="images/pub2.jpg" alt="publication2" width="100%"></div>
+        <div><img src="images/pub2.png" alt="publication2" width="100%"></div>
     </div>
     <div class="paper-box-text">
 
@@ -61,7 +61,7 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
 
 <div class="paper-box">
     <div class="paper-box-image">
-        <div><img src="images/publication3.jpg" alt="publication3" width="100%"></div>
+        <div><img src="images/pub3.png" alt="publication3" width="100%"></div>
     </div>
     <div class="paper-box-text">
 
