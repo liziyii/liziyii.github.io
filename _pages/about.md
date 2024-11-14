@@ -30,18 +30,6 @@ redirect_from:
 I graduated with a Master of Science in China & Globalisation from King’s College London in 2022. I hold a Bachelor of Science in Finance from Sichuan University (Project 985), where I graduated with distinction (Top 5%). My academic background includes expertise in financial economics, international business, and China’s economic policies.
 
 In 2022, I worked as a researcher at the Chinese University of Hong Kong on a project exploring coordinated economic development in the Yangtze River Delta. My research interests focus on economic integration, global investment strategies, and China’s role in the global economy.
-<!-- 
-# 📝 Publications 
-- **Ziyi Li**, What Barriers Does China’s System of Education Create to Social Mobility?, *Research and Advances in Education* (ISSN 2788-7057), Vol.1 No.6, 2022
-
-- **Ziyi Li**, Essential Lessons from China’s Development -- Advanced in Social Science, Education, and Humanities Research, International Conference on Social Sciences and Humanities and Arts* (Accepted, CPCI, CNKI), 2022
-
-- **Ziyi Li**, Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China, 
-*Academic Journal of Business & Management*, 2021, [link](https://doi.org/10.26689/erd.v2i2.2050)
-
-- **Ziyi Li**, An Empirical Analysis of CAPM and Fama-French Three-Factor Model -- Based on the Example of Shanghai Stock Exchange, *Education Reform and Development*, 2020
- -->
-
 
 # 📚 Publications
 - **Ziyi Li**. (2022), *What Barriers Does China’s System of Education Create to Social Mobility?* Research and Advances in Education (ISSN 2788-7057) Vol.1 No.6, [2022].
@@ -49,12 +37,12 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
 - **Ziyi Li**. (2021), *Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China*. Academic Journal of Business & Management.
 - **Ziyi Li**. (2020), *An Empirical Analysis of CAPM and Fama-French Three-Factor Model -- Based on the Example of Shanghai Stock Exchange*. Education Reform and Development.
 
-# 🔬 Academic Work Experience
+# 🔬 Academic Experience
 - **Research Assistant**, National University of Singapore (03/2022 – 06/2022)
   - Proficient in Financial Modelling: Demonstrated proficiency in data collection and analysis to optimize asset allocation using the Markowitz model for ROI analysis, leveraging Black-Litterman modeling and matrix analysis techniques.
   - Equity Investment Decision Research: Conducted in-depth research by integrating technical indicators with market sentiment analysis. Utilized data visualization to predict stock price trends, resulting in the development of five comprehensive asset allocation reports.
 
-# 💼 Professional Employment and Internship Experience
+# 💼 Employment Experience
 - **Data Asset Specialist**, Shengjing Finance, Shenyang (09/2023 – 08/2024)
   - Corporate credit risk measurement research: Conducted research on methodologies for measuring corporate credit risk, using advanced statistical models and big data analytics. Developed a corporate credit risk assessment system to improve forecast accuracy and efficiency.
   - "Sunshine State-owned Enterprises" Information Platform Management: Managed and updated back-end information for the platform, ensuring correct and timely data dissemination, improving transparency for state-owned enterprises.
