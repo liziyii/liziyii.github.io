@@ -41,7 +41,6 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
 <span class="anchor" id="academic-experience"></span>
 # 🔬 Academic Experience
 
-# 📘 Academic Training Experience
 - **Researcher and Learner**, Chinese University of Hong Kong (06/2022)
   - Duties: Completed coursework on regional economic and social development in the Yangtze River Delta, focusing on research methods, trend analysis, and strategic solutions.
   - Achievements: Demonstrated strong analytical and empirical research skills.
