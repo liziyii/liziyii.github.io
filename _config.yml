@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaojun Jia"
-description              : "Research Fellow, NTU"
-repository               : "jiaxiaojunQAQ/jiaxiaojunQAQ.github.io"
+title                    : "Ziyi Li"
+description              : "As you need, KCL"
+repository               : "liziyi/liziyi.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaojun Jia"
-  avatar           : "images/加小俊.jpg"
+  name             : "Ziyi Li"
+  avatar           : "images/XX.jpg"
   bio              :  # e.g.,"Lorem ipsum College"
-  location         : "Singapore"
+  location         : "London"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "jiaxiaojun@iie.ac.cn"
+  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : ""
+  email            : "liziyi@160xin.com.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jiaxiaojunQAQ"
+  github           : "liziyi"
   google_plus      :
   keybase          :
   instagram        :
