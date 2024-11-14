@@ -1,19 +1,25 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Academic Work Experience"
+    url: "/#academic-work-experience"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Professional Employment and Internship Experience"
+    url: "/#professional-employment-and-internship-experience"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Project Experience"
+    url: "/#project-experience"
+
+  - title: "Association Experience"
+    url: "/#association-experience"
+
+  - title: "Honors & Awards"
+    url: "/#honors-and-awards"
+
+  - title: "Skills"
+    url: "/#skills"
