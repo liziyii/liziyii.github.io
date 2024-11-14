@@ -29,45 +29,55 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 Biography
-I am a research fellow at Nanyang Technological University, working with Prof. [Yang Liu](https://personal.ntu.edu.sg/yangliu/). I received my Ph.D. Degree from the University of Chinese Academy of Sciences, advised by Professor [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm). My PhD research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. 
+I graduated with a Master of Science in China & Globalisation from King’s College London in 2022. I hold a Bachelor of Science in Finance from Sichuan University (Project 985), where I graduated with distinction (Top 5%). My academic background includes expertise in financial economics, international business, and China’s economic policies.
 
-I was a visiting student (Remote) from February, 2023 to September, 2023 in the [Torr Vision Group](https://torrvision.com/), University of Oxford. I was a research intern  from March, 2022 to February, 2023 at  Ali Group Security. I was a research intern from May, 2020 to February, 2022 at Tencent AI Lab. 
-
-At present, I am focused on issues related to the security of large models, including jailbreaking attacks on LLM (Large Language Models), adversarial transferability on VLM (Vision Language Models), and so on.
-
-
-<!--I am a Ph.D student at the University of Chinese Academy of Sciences, advised by Professor [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm). My research interests include computer vision, adversarial attack, adversarial training and reinforcement learning etc. I am the author of referred journals and conferences in CVPR, AAAI, ACM Multimedia etc. I will graduate in June 2023 (expected). Currently, I am looking for both academic and industrial job opportunities (especially post-doc positions regarding AI security) starting from Summer 2023. Feel free to connect if there are suitable opportunities! -->
-
-
-# 🎉 News
-- *2024.08*: &nbsp; Champion in CCDM 2024 Red Teaming Multimodal Large Language Model Security Challenge.
-- *2024.07*: &nbsp; One paper on Unlearnable Examples for VLP is accepted in ACM MM2024.
-- *2024.07*: &nbsp; One paper on Transferability of Adversarial Examples on VLP is accepted in ECCV2024.
-- *2024.06*: &nbsp; One paper on Fast Adversarial Training is accepted in TIFS2024.
-- *2024.05*: &nbsp; One paper on Universal Adversarial Examples is accepted in TIFS2024.
-- *2024.04*: &nbsp; One paper on Survey on Transferability of Adversarial Examples is accepted in TMLR2024.
-- *2024.03*: &nbsp; One paper on Fast Adversarial Training is accepted in TPAMI2024.
-- *2024.02*: &nbsp; One paper on Adversarial Attack on 3D is accepted in CVPR2024.
-- *2024.01*: &nbsp; One paper on Backdoor Attack is accepted in ICLR2024.
-- *2024.01*: &nbsp; One Journal paper on Backdoor Attack is accepted to TIFS2024.
-- *2023.12*: &nbsp; Second runner-up in NeurIPS 2023 Red Teaming Track - Base Model Subtrack.
-- *2023.12*: &nbsp; One paper on AI safety and robustness is accepted in AAAI2024.
-- *2023.12*: &nbsp; One Journal paper on AI safety and robustness is accepted in IJCV2024.
-- *2023.10*: &nbsp; One Journal paper on Fast Adversarial Training is accepted to TIFS2024.
-
+In 2022, I worked as a researcher at the Chinese University of Hong Kong on a project exploring coordinated economic development in the Yangtze River Delta. My research interests focus on economic integration, global investment strategies, and China’s role in the global economy.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ACMMM2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- [Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning](https://arxiv.org/pdf/2407.16307), <br />
-Xinwei Liu, **Xiaojun Jia(Corresponding Author)**, Yuan Xun, Siyuan Liang, Xiaochun Cao, <br />
-**Proceedings of the 32nd ACM International Conference on Multimedia 2024 (ACM MM, 2024)**  \| [**Project**](https://arxiv.org/pdf/2407.16307) \| [Github](https://github.com/thinwayliu/Multimodal-Unlearnable-Examples)
-
-</div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div><img src='images/publication1.jpg' alt="publication1" width="100%"></div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        - [What Barriers Does China’s System of Education Create to Social Mobility?](https://doi.org/xxxxxx), <br />
+        **Ziyi Li**, <br />
+        *Research and Advances in Education* (ISSN 2788-7057), Vol.1 No.6, 2022
+    </div>
 </div> 
 
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div><img src='images/publication2.jpg' alt="publication2" width="100%"></div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        - [Essential Lessons from China’s Development -- Advanced in Social Science, Education, and Humanities Research](https://doi.org/xxxxxx), <br />
+        **Ziyi Li**, <br />
+        *2022 International Conference on Social Sciences and Humanities and Arts* (Accepted, CPCI, CNKI)
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div><img src='images/publication3.jpg' alt="publication3" width="100%"></div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        - [Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China](https://doi.org/xxxxxx), <br />
+        **Ziyi Li**, <br />
+        *Academic Journal of Business & Management*, 2021
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div><img src='images/publication4.jpg' alt="publication4" width="100%"></div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        - [An Empirical Analysis of CAPM and Fama-French Three-Factor Model -- Based on the Example of Shanghai Stock Exchange](https://doi.org/xxxxxx), <br />
+        **Ziyi Li**, <br />
+        *Education Reform and Development*, 2020
+    </div>
+</div>
 
 
 
