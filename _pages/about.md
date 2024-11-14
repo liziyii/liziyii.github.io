@@ -65,7 +65,7 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
     </div>
     <div class="paper-box-text">
 
-        - [Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China](https://doi.org/xxxxxx), <br />
+        - [Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China](https://doi.org/10.26689/erd.v2i2.2050), <br />
         **Ziyi Li**, <br />
         *Academic Journal of Business & Management*, 2021
 
