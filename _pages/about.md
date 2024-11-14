@@ -38,20 +38,24 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
         <div><img src="images/publication1.jpg" alt="publication1" width="100%"></div>
     </div>
     <div class="paper-box-text">
+
         - [What Barriers Does China’s System of Education Create to Social Mobility?](https://doi.org/xxxxxx), <br />
         **Ziyi Li**, <br />
         *Research and Advances in Education* (ISSN 2788-7057), Vol.1 No.6, 2022
+
     </div>
 </div>
 
 <div class="paper-box">
     <div class="paper-box-image">
-        <div><img src="images/publication2.jpg" alt="publication2" width="100%"></div>
+        <div><img src="images/pub2.jpg" alt="publication2" width="100%"></div>
     </div>
     <div class="paper-box-text">
-        - [Essential Lessons from China’s Development -- Advanced in Social Science, Education, and Humanities Research](https://doi.org/xxxxxx), <br />
+
+        - [Essential Lessons from China’s Development -- Advanced in Social Science, Education, and Humanities Research](), <br />
         **Ziyi Li**, <br />
         *2022 International Conference on Social Sciences and Humanities and Arts* (Accepted, CPCI, CNKI)
+
     </div>
 </div>
 
@@ -60,9 +64,11 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
         <div><img src="images/publication3.jpg" alt="publication3" width="100%"></div>
     </div>
     <div class="paper-box-text">
+
         - [Financing Constraints of Small and Medium-sized Enterprises (SMEs) in Northeast China](https://doi.org/xxxxxx), <br />
         **Ziyi Li**, <br />
         *Academic Journal of Business & Management*, 2021
+
     </div>
 </div>
 
@@ -77,16 +83,6 @@ In 2022, I worked as a researcher at the Chinese University of Hong Kong on a pr
     </div>
 </div>
 
-<div class="paper-box">
-    <div class="paper-box-image">
-        <div><img src="images/ECCV2024.png" alt="ECCV2024" width="100%"></div>
-    </div>
-    <div class="paper-box-text">
-        - [Boosting Transferability in Vision-Language Attacks via Diversification along the Intersection Region of Adversarial Trajectory](https://arxiv.org/pdf/2403.12445), <br />
-        Sensen Gao, **Xiaojun Jia (Corresponding Author)**, Xuhong Ren, Ivor Tsang, and Qing Guo <br />
-        **European Conference on Computer Vision 2024 (ECCV 2024)** \| [**Project**](https://arxiv.org/pdf/2403.12445) \| [Github](https://github.com/SensenGao/VLPTransferAttack)
-    </div>
-</div>
 
 # 🎉 Professional Service 
 Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, IEEE TPAMI, IEEE TIP, IEEE TIFS
